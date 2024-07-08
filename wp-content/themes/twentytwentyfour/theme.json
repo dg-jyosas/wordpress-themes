@@ -225,14 +225,14 @@
 						{
 							"fontFamily": "Inter",
 							"fontStretch": "normal",
-							"fontStyle": "normal",
+							"fontStyle": "oblique 40deg",
 							"fontWeight": "300 900",
 							"src": [
 								"file:./assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2"
 							]
 						}
 					],
-					"fontFamily": "\"Inter\", Times New Roman",
+					"fontFamily": "\"Inter\", sans-serif",
 					"name": "Inter",
 					"slug": "body"
 				},
