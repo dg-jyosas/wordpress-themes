@@ -1,4 +1,3 @@
-<h1>Tarun</h1>
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
@@ -12,7 +11,7 @@
  *
  * @var bool
  */
-define('WP_USE_THEMES', true);
+define( 'WP_USE_THEMES', true );
 
 /** Loads the WordPress Environment and Template */
-require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+require __DIR__ . '/wp-blog-header.php';
