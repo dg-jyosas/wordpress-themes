@@ -225,7 +225,7 @@
 						{
 							"fontFamily": "Inter",
 							"fontStretch": "normal",
-							"fontStyle": "oblique 40deg",
+							"fontStyle": "normal",
 							"fontWeight": "300 900",
 							"src": [
 								"file:./assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2"
