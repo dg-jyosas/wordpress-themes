@@ -263,7 +263,7 @@
 							]
 						}
 					],
-					"fontFamily": "Cardo",
+					"fontFamily": "cursive",
 					"name": "Cardo",
 					"slug": "heading"
 				},
@@ -282,7 +282,7 @@
 				{
 					"fluid": false,
 					"name": "Small",
-					"size": "0.9rem",
+					"size": "1.9rem",
 					"slug": "small"
 				},
 				{
